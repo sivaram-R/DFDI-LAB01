@@ -6,15 +6,7 @@ Name : Praveen V
 ```
 ## AIM:
 
-This experiment aims to demonstrate:
-
-- Create a **Disk Partition**.  
-
-- Adding, deleting, and recovering files using Autopsy.
-
-- Understanding the forensic recovery of deleted data.
-
-- Removing the disk partition after the process.
+The primary aim of this report is to demonstrate the process of creating a disk partition, adding files, and analyzing them using Autopsy, a digital forensic tool.
 
 ## Step1: Creating a Disk Partition
 ## 1.Open File Manager
@@ -100,6 +92,14 @@ This experiment aims to demonstrate:
 
 - Generate Report
 ![image](https://github.com/user-attachments/assets/5381eefd-7391-4e3f-b117-7d9f58fb5dec)
+
+
+## Result
+The process successfully demonstrated disk partitioning, file storage, and forensic analysis using Autopsy. The analysis provided valuable insights into file metadata and system account details.
+
+
+
+
 
 
 
