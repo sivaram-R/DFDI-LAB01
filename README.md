@@ -66,7 +66,8 @@ This experiment aims to demonstrate:
 - Open File Explorer → Navigate to the newly created drive (C: or D:).
 
 - Transfer images or files into it.
-![Screenshot 2025-03-19 224841](https://github.com/user-attachments/assets/b9fdc15b-f166-435b-9b0d-cd5d40da55de)
+![{57884EC8-F9A5-4FE9-AA1C-C134036B8706}](https://github.com/user-attachments/assets/043ad60d-9a3e-47b6-8819-14e71236ab1c)
+
 ## Step3: Analysing Files using Autopsy
 ## 1. Install and Open Autopsy
 - Download and install Autopsy from its official website.
