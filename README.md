@@ -59,14 +59,53 @@ This experiment aims to demonstrate:
   ![Screenshot 2025-03-19 221000](https://github.com/user-attachments/assets/9b603c47-c7da-4012-9b35-3953cfeea86c)
 
   
-## Step2: Adding and Deleting Files for Recovery
+## Step2: Adding Files
 
-## 1. Copy Files to the Partition:
+## 1.Copy Files to the Partition:
 
 - Open File Explorer → Navigate to the newly created drive (C: or D:).
 
 - Transfer images or files into it.
 ![Screenshot 2025-03-19 224841](https://github.com/user-attachments/assets/b9fdc15b-f166-435b-9b0d-cd5d40da55de)
+## Step3: Analysing Files using Autopsy
+## 1. Install and Open Autopsy
+- Download and install Autopsy from its official website.
+
+- Open Autopsy and create a new case.
+
+## 2. Create a Case
+- Enter a case name and select a location to store the case data.
+
+- Provide a case number and investigator details if required.
+
+## 3. Add a Data Source
+- Click "Add Data Source" and choose the type:
+
+- Disk Image (e.g., .E01, .dd, .raw)
+
+- Local Drive (if analyzing a live system)
+
+- Individual Files/Folders (for specific file analysis)
+
+- Logical Files (for certain partitions)
+
+- Select the data source and let Autopsy process it.
+
+## 4. File Analysis
+Autopsy will extract and categorize data. Key areas to check:
+
+File System: View all files, deleted files, and hidden files.
+
+Keyword Search: Look for specific terms in files.
+
+Hash Set Analysis: Compare files against known hash databases.
+
+Metadata Extraction: View timestamps, ownership, and file paths.
+
+File Carving: Recover deleted or corrupted files.
+
+Email and Chat Analysis: Extract email communications and chat logs.
+
 
 
 
