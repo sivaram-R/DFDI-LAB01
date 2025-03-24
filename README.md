@@ -81,14 +81,7 @@ This experiment aims to demonstrate:
 
 ## 3. Add a Data Source
 - Click "Add Data Source" and choose the type:
-
-- Disk Image (e.g., .E01, .dd, .raw)
-
-- Local Drive (if analyzing a live system)
-
-- Individual Files/Folders (for specific file analysis)
-
-- Logical Files (for certain partitions)
+  ![image](https://github.com/user-attachments/assets/a7721ece-2aee-4046-926e-e7437804758e)
 
 - Select the data source and let Autopsy process it.
 
