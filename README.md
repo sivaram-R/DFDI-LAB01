@@ -75,6 +75,7 @@ This experiment aims to demonstrate:
 
 ## 2. Create a Case
 - Enter a case name and select a location to store the case data.
+  ![image](https://github.com/user-attachments/assets/d6f37baf-7bce-4abd-9281-cdb8f265c476)
 
 - Provide a case number and investigator details if required.
 
