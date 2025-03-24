@@ -87,20 +87,19 @@ This experiment aims to demonstrate:
 - Select the data source and let Autopsy process it.
 
 ## 4. File Analysis
-Autopsy will extract and categorize data. Key areas to check:
+- Application 
+![image](https://github.com/user-attachments/assets/031432bf-1463-4a2a-a17a-b86ad5555fe6)
 
-File System: View all files, deleted files, and hidden files.
+- File Metadata
+![image](https://github.com/user-attachments/assets/4ebf6962-582b-4f42-b826-55b8a97aadfc)
+![image](https://github.com/user-attachments/assets/e7851df5-4008-4054-aad1-990d8eb16b92)
+![image](https://github.com/user-attachments/assets/467db963-048a-4ea0-aef5-cb9da966e8e0)
 
-Keyword Search: Look for specific terms in files.
+- OS Account
+![image](https://github.com/user-attachments/assets/30ee87a7-6d71-424c-9f16-0b101c78ff15)
 
-Hash Set Analysis: Compare files against known hash databases.
-
-Metadata Extraction: View timestamps, ownership, and file paths.
-
-File Carving: Recover deleted or corrupted files.
-
-Email and Chat Analysis: Extract email communications and chat logs.
-
+- Generate Report
+![image](https://github.com/user-attachments/assets/5381eefd-7391-4e3f-b117-7d9f58fb5dec)
 
 
 
