@@ -1,8 +1,8 @@
 # Analysing the Disk Files
 
 ```
-Register Number : 212222040121
-Name : Praveen V
+Register Number : 212222100050
+Name : Sivaram R
 ```
 ## AIM:
 
